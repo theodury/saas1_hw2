@@ -9,8 +9,8 @@ successful deployment on Heroku, and to which we've added an additional handful
 of movies to make things more interesting. Check out the app on your VM (or
 other development environment) by running the following commands:
 
-    git clone git://github.com/saasbook/hw2_rottenpotatoes.git cd
-    hw2_rottenpotatoes
+    git clone git://github.com/saasbook/hw2_rottenpotatoes.git
+    cd hw2_rottenpotatoes
 
 The first command will pull down the latest version of the RottenPotatoes
 starter code, and the second will move you into the directory which now contains
