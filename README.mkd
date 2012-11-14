@@ -90,13 +90,13 @@ You will enhance RottenPotatoes in the following ways:
     variables that are used to conditionally set the CSS class of the
     appropriate table heading to hilite, and pasting this [simple
     CSS](http://pastebin.com/zRkyVWZM) snippet into RottenPotatoes's
-    ```app/assets/stylesheets/application.css`` file.
+    ```app/assets/stylesheets/application.css``` file.
 
 
 RottenPotatoes Enhancement #2: Filter the List of Movies
 ========================================================
 
-n this portion of the assignment, you will creating functionality within
+In this portion of the assignment, you will creating functionality within
 RottenPotatoes that allows the user to filter movies by MPAA rating. The filter
 will be controlled by checkboxes at the top of the "All Movies" listing.
 
